@@ -10,4 +10,4 @@ my simple music player page for learn HTML, CSS
 
 <br>
 
-<img src="./assets/coverMusicPlayer.jpg" alt="Imagem cover da pagina"/> 
+<img src="./assets/images/coverMusicPlayer.jpg" alt="Imagem cover da pagina"/> 
